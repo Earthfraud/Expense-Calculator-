@@ -1,0 +1,6 @@
+{
+  "appId": "com.Shivam.splitease",
+  "appName": "expense-calculator",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
